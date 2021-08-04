@@ -18,3 +18,5 @@ void main(){
 	fclose(list);
 }
 
+//klo ini ada ga?
+
